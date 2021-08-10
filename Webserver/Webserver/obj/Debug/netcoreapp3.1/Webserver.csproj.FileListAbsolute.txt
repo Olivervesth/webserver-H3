@@ -1,0 +1,13 @@
+C:\Users\olive\source\repos\Webserver\Webserver\bin\Debug\netcoreapp3.1\Webserver.exe
+C:\Users\olive\source\repos\Webserver\Webserver\bin\Debug\netcoreapp3.1\Webserver.deps.json
+C:\Users\olive\source\repos\Webserver\Webserver\bin\Debug\netcoreapp3.1\Webserver.runtimeconfig.json
+C:\Users\olive\source\repos\Webserver\Webserver\bin\Debug\netcoreapp3.1\Webserver.runtimeconfig.dev.json
+C:\Users\olive\source\repos\Webserver\Webserver\bin\Debug\netcoreapp3.1\Webserver.dll
+C:\Users\olive\source\repos\Webserver\Webserver\bin\Debug\netcoreapp3.1\Webserver.pdb
+C:\Users\olive\source\repos\Webserver\Webserver\obj\Debug\netcoreapp3.1\Webserver.csproj.AssemblyReference.cache
+C:\Users\olive\source\repos\Webserver\Webserver\obj\Debug\netcoreapp3.1\Webserver.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\Webserver\Webserver\obj\Debug\netcoreapp3.1\Webserver.AssemblyInfo.cs
+C:\Users\olive\source\repos\Webserver\Webserver\obj\Debug\netcoreapp3.1\Webserver.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\Webserver\Webserver\obj\Debug\netcoreapp3.1\Webserver.dll
+C:\Users\olive\source\repos\Webserver\Webserver\obj\Debug\netcoreapp3.1\Webserver.pdb
+C:\Users\olive\source\repos\Webserver\Webserver\obj\Debug\netcoreapp3.1\Webserver.genruntimeconfig.cache
